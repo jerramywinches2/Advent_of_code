@@ -1,0 +1,2 @@
+Answer part 1: 378
+Answer part 2: 27526
